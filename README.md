@@ -1,11 +1,14 @@
 # Sentiment-Analysis-on-Movie-Reviews
  
-Project Summary: Implementing various algorithms including NaÃ¯ve Bayes classifier, KNN classifier, Support Vector Machine (SVM), Dictionary approach to improve classification accuracy of sentiment polarity of movie reviews.
+Project Summary: Implementing various algorithms including Naive Bayes classifier, KNN classifier, Support Vector Machine (SVM), Dictionary approach to improve classification accuracy of sentiment polarity of movie reviews.
 Technology used: Python.
 
 **Abstract:**
 
 Social media sites such as Twitter is a rich source of text examples expressing positive and negative sentiment. In this project I applied some of the machine learning algorithms to the collected twitter dataset to analyse the sentiment of each review and classify its polarity as positive or negative. Implementing various algorithms including Naive Bayes classifier, k-nearest neighbour (KNN) classifier, dictionary approach we had tried to improve the classification accuracy.
+
+**Dataset:**
+Dataset was taken from Kaggle.com
 
 **Implementation:**
 
